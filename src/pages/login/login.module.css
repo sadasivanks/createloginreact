@@ -1,0 +1,29 @@
+.partitioof2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.bgcolor{
+    background-color: rgb(45, 221, 221);
+}
+
+
+.emailstyle{
+    margin-bottom: 16px;
+padding-top: 10px;
+padding-bottom: 10px;
+   width: 100%;
+   /* border-radius:18px; */
+   
+}
+
+
+.buttonstyle{
+    margin-bottom: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+       width: 100%;
+       background-color:blue;
+      
+}
